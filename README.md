@@ -2,8 +2,6 @@
 
 Install latest global Node, npm, and npx
 
-[Donate](https://ko-fi.com/zacanger)
-
 --------
 
 ## Usage:
@@ -23,7 +21,7 @@ Or, if you want to install it globally, `npm i -g dist-upgrade`, then `dist-upgr
 ## Thanks
 
 Huge thanks to [Kat Marchán](https://github.com/zkat) for basically writing this
-in an [issue](https://github.com/zacanger/dist-upgrade/issues/1) when my
+in an [issue](https://github.com/zautumnz/dist-upgrade/issues/1) when my
 original version failed.
 
 [LICENSE](./LICENSE.md)
